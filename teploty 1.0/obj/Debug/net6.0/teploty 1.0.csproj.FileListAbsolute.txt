@@ -1,0 +1,17 @@
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.csproj.AssemblyReference.cache
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.AssemblyInfoInputs.cache
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.AssemblyInfo.cs
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.csproj.CoreCompileInputs.cache
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\bin\Debug\net6.0\teploty 1.0.exe
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\bin\Debug\net6.0\teploty 1.0.deps.json
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\bin\Debug\net6.0\teploty 1.0.runtimeconfig.json
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\bin\Debug\net6.0\teploty 1.0.dll
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\bin\Debug\net6.0\teploty 1.0.pdb
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.csproj.CopyComplete
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.dll
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\refint\teploty 1.0.dll
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.pdb
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\teploty 1.0.genruntimeconfig.cache
+C:\Users\jakub.franek\OneDrive - Střední škola EDUCHEM, a.s\a   Plocha\a   Studio Visual Code\a   Noname\teploty 1.0\teploty 1.0\obj\Debug\net6.0\ref\teploty 1.0.dll

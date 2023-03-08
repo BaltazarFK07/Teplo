@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gX1lma/OdFJk1D3O2hNv0bR4NMCYhaVCtTLXBfHPp3gqXcgiDkjJvK6ATv4y1IqwBIOQim7yUnceqrMNVM1iiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakub.franek\\OneDrive - Střední škola EDUCHEM, a.s\\a   Plocha\\a   Studio Visual Code\\a   Noname\\teploty 1.0\\teploty 1.0\\teploty 1.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub.franek\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\jakub.franek\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
